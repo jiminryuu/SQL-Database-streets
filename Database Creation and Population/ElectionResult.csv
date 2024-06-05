@@ -1,0 +1,504 @@
+ElectionID,Won,Votes,CandidateID,DivisionName
+1,No,1798,5,Mynarski
+2,No,3322,2,River East Transcona School Division
+3,No,730,3,St. James - Assiniboia School Division
+4,No,2326,4,Louis Riel School Division
+5,No,2183,5,Transcona
+6,No,1754,6,Pembina Trails School Division
+7,Yes,4797,7,Pembina Trails School Division
+8,No,2696,8,River East Transcona School Division
+9,No,1892,9,Louis Riel School Division
+10,No,4627,10,Pembina Trails School Division
+11,No,4311,10,Pembina Trails School Division
+12,No,1350,11,North Kildonan
+13,No,3786,11,North Kildonan
+14,No,4030,11,North Kildonan
+15,No,477,12,Winnipeg School Division
+16,Yes,2461,13,St. James - Assiniboia School Division
+17,Yes,3559,14,Winnipeg School Division
+18,Yes,252,15,Winnipeg School Division
+19,Yes,0,15,Winnipeg School Division
+20,No,1760,15,Winnipeg School Division
+21,No,1706,17,St. Vital
+22,No,875,17,St. Vital
+23,No,2610,18,Seven Oaks School Division
+24,No,1139,19,Transcona
+25,No,1719,20,Winnipeg School Division
+26,Yes,3761,20,Winnipeg School Division
+27,Yes,1875,20,Winnipeg School Division
+28,No,407,22,Charleswood-Tuxedo-Westwood
+29,No,2339,22,Old Kildonan
+30,No,961,22,St. Boniface
+31,No,3398,22,Winnipeg
+32,No,3406,24,River Heights-Fort Garry
+33,No,2750,25,River East Transcona School Division
+34,Yes,3783,25,River East Transcona School Division
+35,No,3343,26,Louis Riel School Division
+36,Yes,3623,27,St. Vital
+37,Yes,14128,27,St. Vital
+38,Yes,14338,27,St. Vital
+39,Yes,12500,27,St. Vital
+40,Yes,337,28,River East Transcona School Division
+41,Yes,4511,28,River East Transcona School Division
+42,Yes,4560,28,River East Transcona School Division
+43,Yes,4981,29,St. James - Assiniboia School Division
+44,Yes,4375,29,St. James - Assiniboia School Division
+45,Yes,3526,29,St. James - Assiniboia School Division
+46,Yes,3331,29,St. James - Assiniboia School Division
+47,Yes,2881,29,St. James - Assiniboia School Division
+48,Yes,3877,29,St. James - Assiniboia School Division
+49,Yes,3937,29,St. James - Assiniboia School Division
+50,Yes,0,29,St. James - Assiniboia School Division
+51,Yes,0,29,St. James - Assiniboia School Division
+52,No,1920,30,Winnipeg School Division
+53,Yes,3183,31,St. James - Assiniboia School Division
+54,Yes,3509,31,St. James - Assiniboia School Division
+55,No,3548,31,St. James-Brooklands
+56,No,700,32,Fort Rouge-East Fort Garry
+57,No,2037,33,St. James - Assiniboia School Division
+58,Yes,6045,34,St. James - Assiniboia School Division
+59,Yes,5140,34,St. James - Assiniboia School Division
+60,Yes,3462,34,St. James - Assiniboia School Division
+61,Yes,4544,34,St. James - Assiniboia School Division
+62,Yes,5316,34,St. James - Assiniboia School Division
+63,Yes,2280,36,Winnipeg School Division
+64,Yes,4062,36,Winnipeg School Division
+65,No,1267,36,Winnipeg School Division
+66,No,608,37,St. Norbert-Seine River
+67,No,565,38,Glenlawn
+68,Yes,4369,38,Louis Riel School Division
+69,Yes,4788,38,Louis Riel School Division
+70,Yes,5269,38,Louis Riel School Division
+71,Yes,4162,38,Louis Riel School Division
+72,No,90,39,Louis Riel School Division
+73,No,2818,39,Louis Riel School Division
+74,No,2333,39,Louis Riel School Division
+75,No,1868,39,Louis Riel School Division
+76,No,930,39,Winnipeg School Division
+77,No,1632,40,Seven Oaks School Division
+78,No,1345,41,Winnipeg School Division
+79,Yes,5955,42,Pembina Trails School Division
+80,Yes,4209,43,Daniel McIntyre
+81,Yes,6396,43,Daniel McIntyre
+82,Yes,5476,43,Daniel McIntyre
+83,No,3143,43,Daniel McIntyre
+84,Yes,6246,43,Winnipeg School Division
+85,Yes,3100,44,Winnipeg School Division
+86,No,3902,45,Pembina Trails School Division
+87,Yes,4204,45,Pembina Trails School Division
+88,Yes,6827,45,Pembina Trails School Division
+89,Yes,4979,46,Louis Riel School Division
+90,Yes,3591,46,Louis Riel School Division
+91,Yes,3657,46,Louis Riel School Division
+92,No,3112,47,Louis Riel School Division
+93,No,247,49,Winnipeg School Division
+94,Yes,3689,50,River East Transcona School Division
+95,Yes,5041,50,River East Transcona School Division
+96,Yes,6302,50,River East Transcona School Division
+97,Yes,4336,50,River East Transcona School Division
+99,Yes,4267,50,River East Transcona School Division
+100,Yes,3166,50,Transcona-Springfield School Division
+101,Yes,2347,50,Transcona-Springfield School Division
+102,Yes,3771,50,Transcona-Springfield School Division
+103,No,1865,52,Pembina Trails School Division
+104,Yes,3270,53,St. James - Assiniboia School Division
+105,Yes,4263,53,St. James - Assiniboia School Division
+106,Yes,3805,54,St. James - Assiniboia School Division
+107,Yes,3275,54,St. James - Assiniboia School Division
+108,Yes,3910,54,St. James - Assiniboia School Division
+109,No,2545,54,Winnipeg School Division
+110,Yes,4023,55,St. James - Assiniboia School Division
+111,Yes,2886,55,St. James - Assiniboia School Division
+112,No,2645,55,St. James - Assiniboia School Division
+113,Yes,3709,55,St. James - Assiniboia School Division
+114,Yes,3169,55,St. James - Assiniboia School Division
+115,No,2365,55,St. James - Assiniboia School Division
+116,Yes,3949,56,Pembina Trails School Division
+117,No,1604,57,River East Transcona School Division
+118,No,826,57,River East Transcona School Division
+119,No,2218,58,St. James
+120,No,613,59,Winnipeg School Division
+121,Yes,1096,60,Winnipeg School Division
+122,No,2199,61,Louis Riel School Division
+123,Yes,4915,62,Louis Riel School Division
+124,No,381,63,Mynarski
+125,No,377,63,Mynarski
+126,Yes,8953,64,Pembina Trails School Division
+127,Yes,6073,64,Pembina Trails School Division
+128,Yes,8128,64,Pembina Trails School Division
+129,Yes,6095,64,Pembina Trails School Division
+130,Yes,7014,64,Pembina Trails School Division
+131,Yes,7625,64,Pembina Trails School Division
+132,No,1022,65,Point Douglas
+133,No,384,65,Point Douglas
+134,No,1860,65,Point Douglas
+135,Yes,4510,65,Winnipeg School Division
+136,No,2909,66,Seven Oaks School Division
+137,No,870,68,Winnipeg School Division
+138,No,435,69,Redboine
+139,Yes,3812,69,Seven Oaks School Division
+140,Yes,4300,69,Seven Oaks School Division
+141,Yes,3245,69,Seven Oaks School Division
+142,Yes,4563,69,Seven Oaks School Division
+143,No,1594,70,St. Vital
+144,Yes,5944,71,Old Kildonan
+145,Yes,6923,71,Old Kildonan
+147,Yes,6490,71,Old Kildonan
+148,Yes,4415,73,Seven Oaks School Division
+149,Yes,4413,73,Seven Oaks School Division
+150,Yes,3601,73,Seven Oaks School Division
+151,Yes,6247,74,Pembina Trails School Division
+152,Yes,5247,74,Pembina Trails School Division
+153,Yes,4059,74,Pembina Trails School Division
+154,Yes,5323,74,Pembina Trails School Division
+155,No,1763,75,Pembina Trails School Division
+156,No,3718,76,Pembina Trails School Division
+157,No,330,78,Mynarski
+158,No,2062,79,St. James
+159,Yes,4398,80,Seven Oaks School Division
+160,No,2532,80,Seven Oaks School Division
+161,Yes,0,80,Seven Oaks School Division
+162,Yes,2360,80,Seven Oaks School Division
+163,Yes,3238,80,Seven Oaks School Division
+164,Yes,0,80,Seven Oaks School Division
+165,No,1257,80,Seven Oaks School Division
+166,No,1054,82,Winnipeg School Division
+167,No,5812,83,Charleswood-Tuxedo
+168,Yes,9491,83,Charleswood-Tuxedo-Westwood
+169,Yes,4461,84,Seven Oaks School Division
+170,Yes,3435,85,St. James - Assiniboia School Division
+171,Yes,2817,86,Louis Riel School Division
+172,No,1197,87,Winnipeg School Division
+173,No,347,87,Winnipeg School Division
+174,Yes,6864,88,River Heights
+175,Yes,11305,88,River Heights
+176,Yes,0,88,River Heights-Fort Garry
+177,No,4684,88,River Heights-Fort Garry
+178,No,16497,88,Winnipeg
+179,No,1007,89,River Heights-Fort Garry
+180,No,1090,89,River Heights-Fort Garry
+181,Yes,2212,91,Assiniboine South School Division
+182,Yes,2169,91,Assiniboine South School Division
+183,Yes,7044,91,Pembina Trails School Division
+184,Yes,5520,91,Pembina Trails School Division
+185,Yes,5654,91,Pembina Trails School Division
+186,Yes,4158,91,Pembina Trails School Division
+187,Yes,6958,91,Pembina Trails School Division
+188,No,2330,92,River East Transcona School Division
+189,No,3835,93,St. Norbert-Seine River
+190,No,3999,93,St. Vital
+191,No,1090,94,Charleswood-Tuxedo-Westwood
+192,No,2698,95,Mynarski
+193,No,1373,95,Mynarski
+194,No,1492,95,Mynarski
+195,No,1989,95,Mynarski
+196,Yes,4676,96,Seven Oaks School Division
+197,Yes,4454,96,Seven Oaks School Division
+198,Yes,3676,96,Seven Oaks School Division
+199,No,1772,98,Seven Oaks School Division
+200,No,2367,99,St. James - Assiniboia School Division
+201,No,6855,100,Charleswood-Tuxedo-Westwood
+202,No,1889,101,Winnipeg School Division
+203,No,209,102,Fort Rouge-East Fort Garry
+204,No,49,102,St. Vital
+205,No,3207,102,St. Vital
+206,Yes,2334,103,St. James - Assiniboia School Division
+207,Yes,3059,103,St. James - Assiniboia School Division
+208,Yes,7312,104,Louis Riel School Division
+209,Yes,4632,104,Louis Riel School Division
+210,No,2426,104,Louis Riel School Division
+211,No,3198,104,Louis Riel School Division
+212,Yes,4434,104,Louis Riel School Division
+213,Yes,0,104,Louis Riel School Division
+214,Yes,3358,104,St. Boniface School Division
+215,Yes,3988,104,St. Boniface School Division
+216,Yes,5518,104,St. Boniface School Division
+217,Yes,4921,104,St. Boniface School Division
+218,Yes,2646,104,St. Boniface School Division
+219,No,2565,104,St. Vital School Division
+220,No,4981,105,Louis Riel School Division
+221,Yes,5368,106,Louis Riel School Division
+222,Yes,4822,107,Pembina Trails School Division
+223,Yes,4635,107,Pembina Trails School Division
+224,No,875,108,Winnipeg School Division
+225,Yes,4821,109,Winnipeg School Division
+226,Yes,3859,109,Winnipeg School Division
+227,Yes,10719,110,St. Norbert
+228,Yes,0,110,Waverley West
+229,Yes,8580,110,Waverley West
+230,No,2019,112,Seven Oaks School Division
+231,No,4014,113,Pembina Trails School Division
+232,Yes,6185,113,Pembina Trails School Division
+233,No,2030,114,River East Transcona School Division
+234,No,1487,115,Louis Riel School Division
+235,Yes,6830,116,Elmwood-East Kildonan
+236,Yes,6171,116,Elmwood-East Kildonan
+237,Yes,5554,116,Elmwood-East Kildonan
+238,No,1635,117,Seven Oaks School Division
+239,No,3352,118,Louis Riel School Division
+240,Yes,11840,119,North Kildonan
+241,Yes,12796,119,North Kildonan
+242,Yes,6820,119,North Kildonan
+243,Yes,10725,119,North Kildonan
+244,Yes,9136,119,North Kildonan
+245,No,4783,120,Fort Rouge-East Fort Garry
+246,Yes,3861,121,St. James - Assiniboia School Division
+247,Yes,3570,121,St. James - Assiniboia School Division
+248,Yes,3374,121,St. James - Assiniboia School Division
+249,Yes,3472,122,River East Transcona School Division
+250,Yes,4686,122,River East Transcona School Division
+251,No,292,123,Winnipeg School Division
+252,No,2771,124,Seven Oaks School Division
+253,No,3749,125,Pembina Trails School Division
+254,No,1240,126,Point Douglas
+255,No,5691,127,Old Kildonan
+256,No,4227,127,River Heights-Fort Garry
+257,Yes,4392,127,River Heights-Fort Garry
+258,Yes,11856,127,River Heights-Fort Garry
+259,Yes,12717,127,River Heights-Fort Garry
+260,Yes,12237,127,River Heights-Fort Garry
+261,Yes,10713,127,River Heights-Fort Garry
+262,Yes,7726,127,Winnipeg School Division
+263,Yes,10014,127,Winnipeg School Division
+264,Yes,10163,127,Winnipeg School Division
+265,No,166,129,Winnipeg School Division
+266,Yes,6312,130,Louis Riel School Division
+267,Yes,7432,130,Louis Riel School Division
+268,Yes,5109,131,Pembina Trails School Division
+269,Yes,5038,131,Pembina Trails School Division
+270,Yes,4278,131,Pembina Trails School Division
+271,No,2936,133,Point Douglas
+272,Yes,5552,134,Pembina Trails School Division
+273,Yes,4766,134,Pembina Trails School Division
+274,Yes,2494,135,Winnipeg School Division
+275,No,280,137,River East Transcona School Division
+276,Yes,3078,137,River East Transcona School Division
+277,Yes,3292,137,River East Transcona School Division
+278,No,2621,138,Seven Oaks School Division
+279,No,3693,139,St. James
+280,Yes,2198,140,Winnipeg School Division
+281,No,2218,140,Winnipeg School Division
+282,No,950,140,Winnipeg School Division
+283,No,6370,140,Winnipeg School Division
+284,No,2228,141,St. James - Assiniboia School Division
+285,No,1601,142,St. James
+286,Yes,2406,143,Fort Garry School Division
+287,Yes,4450,143,Pembina Trails School Division
+288,Yes,4750,143,Pembina Trails School Division
+289,No,2845,143,Pembina Trails School Division
+290,Yes,4157,143,Pembina Trails School Division
+291,Yes,4975,143,Pembina Trails School Division
+292,No,1725,144,Winnipeg School Division
+293,No,693,145,Pembina Trails School Division
+294,No,1589,146,St. James - Assiniboia School Division
+295,Yes,5441,147,Pembina Trails School Division
+296,Yes,2848,148,Winnipeg School Division
+297,No,878,148,Winnipeg School Division
+298,No,916,150,Winnipeg School Division
+299,Yes,3310,151,Winnipeg School Division
+300,No,1010,152,St. James - Assiniboia School Division
+301,Yes,6484,153,Louis Riel School Division
+302,Yes,3089,153,Louis Riel School Division
+303,Yes,4248,153,Louis Riel School Division
+304,Yes,4519,153,Louis Riel School Division
+305,Yes,5304,153,Louis Riel School Division
+306,Yes,1698,153,Norwood School Division
+307,Yes,2239,153,Norwood School Division
+308,Yes,2712,153,Norwood School Division
+309,Yes,0,153,St. Boniface School Division
+310,No,938,154,Winnipeg School Division
+311,No,1071,155,St. Boniface
+312,No,2838,155,St. Boniface
+313,No,934,155,St. Boniface
+314,Yes,4385,156,Seven Oaks School Division
+315,Yes,4829,156,Seven Oaks School Division
+316,Yes,3735,156,Seven Oaks School Division
+317,No,477,157,Winnipeg School Division
+318,No,1252,157,Winnipeg School Division
+319,No,235,158,Winnipeg School Division
+320,Yes,4123,159,Winnipeg School Division
+321,Yes,5603,159,Winnipeg School Division
+322,Yes,5364,159,Winnipeg School Division
+323,Yes,6421,159,Winnipeg School Division
+324,Yes,7090,159,Winnipeg School Division
+325,Yes,6331,159,Winnipeg School Division
+326,No,1744,160,Louis Riel School Division
+327,No,856,161,Winnipeg School Division
+328,Yes,5391,163,St. Norbert-Seine River
+330,Yes,15355,165,St. Boniface
+331,Yes,13649,165,St. Boniface
+332,Yes,10124,165,St. Boniface
+333,No,2183,166,River East Transcona School Division
+334,No,2263,167,St. James - Assiniboia School Division
+335,Yes,3247,168,St. James - Assiniboia School Division
+336,No,1852,169,Winnipeg School Division
+337,No,1070,170,Winnipeg School Division
+338,No,793,171,Fort Rouge-East Fort Garry
+339,No,3075,171,Fort Rouge-East Fort Garry
+340,No,2474,172,Louis Riel School Division
+341,No,2485,174,Point Douglas
+342,No,367,175,Louis Riel School Division
+343,No,4827,175,St. Norbert-Seine River
+344,No,2016,176,Mynarski
+345,Yes,6276,178,Louis Riel School Division
+346,Yes,6405,178,St. Vital School Division
+347,Yes,10139,178,St. Vital School Division
+348,No,3127,179,Pembina Trails School Division
+349,No,3876,180,St. Boniface
+350,No,211,181,St. James - Assiniboia School Division
+351,Yes,3452,181,St. James - Assiniboia School Division
+352,No,971,182,St. Norbert-Seine River
+353,No,227,183,Winnipeg School Division
+354,No,2470,184,Daniel McIntyre
+355,No,650,185,Winnipeg School Division
+356,Yes,7374,186,Louis Riel School Division
+358,No,658,188,Winnipeg School Division
+359,No,2026,189,Waverley West
+360,No,822,190,Winnipeg School Division
+361,No,3684,191,Seven Oaks School Division
+362,Yes,1925,192,Winnipeg School Division
+363,No,871,193,Fort Rouge-East Fort Garry
+364,No,808,194,River East School Division
+365,Yes,3957,194,River East School Division
+366,No,2890,194,River East School Division
+367,Yes,5137,194,River East School Division
+368,Yes,5879,194,River East Transcona School Division
+369,Yes,4150,194,River East Transcona School Division
+370,Yes,5658,194,River East Transcona School Division
+371,Yes,3989,194,River East Transcona School Division
+372,No,3488,194,River East Transcona School Division
+373,Yes,5443,194,River East Transcona School Division
+374,Yes,405,195,St. James - Assiniboia School Division
+375,No,2317,195,St. James - Assiniboia School Division
+376,No,1480,197,St. James - Assiniboia School Division
+377,Yes,4330,198,St. James - Assiniboia School Division
+378,No,2691,199,Seven Oaks School Division
+379,No,531,200,Transcona
+380,Yes,4023,201,Winnipeg School Division
+381,No,1876,202,Winnipeg School Division
+382,Yes,4776,203,Seven Oaks School Division
+383,Yes,3796,203,Seven Oaks School Division
+384,Yes,0,203,Seven Oaks School Division
+385,Yes,2781,203,Seven Oaks School Division
+386,Yes,3872,203,Seven Oaks School Division
+387,Yes,0,203,Seven Oaks School Division
+388,Yes,3105,203,Seven Oaks School Division
+389,No,1085,205,River East Transcona School Division
+390,No,1702,205,River East Transcona School Division
+391,No,739,206,Winnipeg School Division
+392,No,2418,206,Winnipeg School Division
+393,Yes,351,207,Louis Riel School Division
+394,No,3823,207,Louis Riel School Division
+395,Yes,4092,207,Louis Riel School Division
+396,No,3991,207,Louis Riel School Division
+397,No,3041,207,Louis Riel School Division
+398,No,6179,207,Louis Riel School Division
+399,No,992,207,Queenston
+400,No,453,207,St. Norbert
+401,No,3501,208,Elmwood-East Kildonan
+402,Yes,4542,208,River East School Division
+403,Yes,4905,208,River East Transcona School Division
+404,Yes,3874,208,River East Transcona School Division
+405,Yes,0,208,River East Transcona School Division
+406,Yes,2914,208,River East Transcona School Division
+407,Yes,4287,208,River East Transcona School Division
+408,No,1603,210,Louis Riel School Division
+409,No,205,211,River East Transcona School Division
+410,No,3663,211,River East Transcona School Division
+411,No,1003,211,River East Transcona School Division
+412,No,2591,211,River East Transcona School Division
+413,No,1246,211,River East Transcona School Division
+414,No,2885,211,River East Transcona School Division
+415,Yes,6565,212,Mynarski
+416,Yes,6854,212,Mynarski
+417,Yes,3779,212,Mynarski
+418,Yes,4007,212,Mynarski
+419,No,4107,212,Old Kildonan
+420,No,7002,212,Old Kildonan
+421,Yes,2862,212,Seven Oaks School Division
+422,Yes,8490,213,Transcona
+423,Yes,7270,213,Transcona
+424,Yes,7880,213,Transcona
+425,Yes,6010,213,Transcona
+426,Yes,9503,213,Transcona
+427,No,3376,214,Elmwood-East Kildonan
+428,Yes,4993,215,Louis Riel School Division
+429,No,3477,216,Pembina Trails School Division
+430,No,2484,217,Daniel McIntyre
+431,No,2124,218,Pembina Trails School Division
+432,No,258,219,Transcona
+433,Yes,5402,220,St. James - Assiniboia School Division
+434,Yes,4391,220,St. James - Assiniboia School Division
+435,Yes,4005,220,St. James - Assiniboia School Division
+436,Yes,3258,220,St. James - Assiniboia School Division
+437,Yes,7394,221,Louis Riel School Division
+438,Yes,8139,221,Louis Riel School Division
+439,Yes,7012,221,Louis Riel School Division
+440,Yes,6500,221,Louis Riel School Division
+441,Yes,9130,222,St. James
+442,Yes,5174,222,St. James-Brooklands
+443,Yes,53663,222,Winnipeg
+444,No,4142,223,Louis Riel School Division
+445,No,1131,224,Winnipeg School Division
+446,No,486,225,Transcona
+447,Yes,5040,226,St. Charles
+448,No,5001,226,St. Charles
+449,No,2516,226,St. Charles
+450,No,4063,226,St. Charles
+451,No,5740,226,St. James
+452,Yes,4880,226,St. James
+453,Yes,5247,227,Transcona
+454,No,5034,227,Transcona
+455,Yes,6837,228,Pembina Trails School Division
+456,Yes,7947,228,Pembina Trails School Division
+457,Yes,3824,229,River East Transcona School Division
+458,Yes,5349,231,Fort Rouge-East Fort Garry
+459,Yes,9704,231,Fort Rouge-East Fort Garry
+460,Yes,2324,231,Winnipeg School Division
+461,No,692,232,Pembina Trails School Division
+462,No,1783,233,Fort Rouge-East Fort Garry
+463,No,1048,234,Transcona
+464,No,950,235,Mynarski
+465,No,2004,236,Transcona
+466,No,367,237,Charleswood-Tuxedo-Westwood
+467,Yes,7296,238,Pembina Trails School Division
+468,No,4204,239,Pembina Trails School Division
+469,Yes,6037,240,River East Transcona School Division
+470,Yes,5002,240,River East Transcona School Division
+471,Yes,1790,241,Winnipeg School Division
+472,No,2192,242,Louis Riel School Division
+473,Yes,2794,243,St. James - Assiniboia School Division
+474,Yes,4524,244,Seven Oaks School Division
+475,Yes,0,244,Seven Oaks School Division
+476,Yes,2285,244,Seven Oaks School Division
+477,Yes,3876,244,Seven Oaks School Division
+478,Yes,0,244,Seven Oaks School Division
+479,No,1667,246,St. James
+480,No,10548,246,Winnipeg
+481,Yes,7974,247,Pembina Trails School Division
+482,Yes,7232,247,Pembina Trails School Division
+483,Yes,4764,247,Pembina Trails School Division
+484,Yes,6627,247,Pembina Trails School Division
+485,Yes,7134,247,Pembina Trails School Division
+486,No,2898,248,Pembina Trails School Division
+487,Yes,5334,249,Louis Riel School Division
+488,Yes,5069,249,Louis Riel School Division
+489,Yes,3957,249,Louis Riel School Division
+490,Yes,5180,249,Louis Riel School Division
+491,No,2705,249,Louis Riel School Division
+492,Yes,0,249,Louis Riel School Division
+493,Yes,3262,249,St. Boniface School Division
+494,No,3622,250,St. James - Assiniboia School Division
+495,No,2717,250,St. James - Assiniboia School Division
+496,No,969,251,Winnipeg School Division
+497,No,1477,252,St. James - Assiniboia School Division
+498,No,1890,252,St. James - Assiniboia School Division
+499,No,2890,252,Winnipeg School Division
+500,Yes,5327,253,Point Douglas
+501,Yes,4459,253,Point Douglas
+502,No,2345,254,Transcona
+503,No,866,254,Transcona
+504,Yes,2443,257,Winnipeg School Division
+505,No,1141,258,Pembina Trails School Division
+506,No,1260,259,St. James - Assiniboia School Division
+507,No,1561,259,St. James - Assiniboia School Division

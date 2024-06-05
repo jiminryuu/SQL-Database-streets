@@ -1,0 +1,1202 @@
+ParkID,ParkName,NeighbourhoodName
+1,Champlain C.C,NORWOOD EAST
+2,Cheriton Park West,KILDONAN DRIVE
+5,Marj Edey Park,RIDGEWOOD SOUTH
+7,Sioux Riverbank,ST. VITAL PERIMETER SOUTH
+10,North Kildonan Parkway,VALHALLA
+13,23 Archibald Riverbank,NORTH ST. BONIFACE
+15,Baltimore Pumping Station,RIVERVIEW
+16,Point Douglas Park,NORTH POINT DOUGLAS
+21,Kinsmen Legacy Park,KILDARE-REDONDA
+23,Seine River Greenway-Nova Vista,DAKOTA CROSSING
+25,McGowan Park,SEVEN OAKS
+27,Rover Dike East,NORTH POINT DOUGLAS
+29,Sturgeon Creek Parkway-E,BIRCHWOOD
+30,Deniset Park,ARCHWOOD
+32,South St. Vital Greenway-7,DAKOTA CROSSING
+33,South St. Vital Greenway-8,DAKOTA CROSSING
+34,South St. Vital Greenway-9,DAKOTA CROSSING
+36,Daly Gardens,RIVER WEST PARK
+38,Kildonan Parkway,CHALMERS
+40,North Winnipeg Action Centre,LORD SELKIRK PARK
+42,Eugenie-Edgewood Riverbank,NORWOOD EAST
+44,Dumoulin Park,NORTH ST. BONIFACE
+45,Provencher North Riverbank,NORTH ST. BONIFACE
+46,Mazenod Park,ST. BONIFACE INDUSTRIAL PARK
+47,Harbourview South Optimist Park,GRASSIE
+48,Omand's Creek Border Site,ST. JAMES INDUSTRIAL
+49,Bridgwater Park,BRIDGWATER FOREST
+50,Grant Avenue Greenspace-4,EARL GREY
+51,South Winnipeg C.C-Richmond Kings Site,FORT RICHMOND
+52,Rotary Prairie Nature Park,REGENT
+53,Edison Park,ROSSMERE-A
+54,Cedar Ranch Park,MISSION GARDENS
+55,Scouts Park,MELROSE
+58,S WPG Parkway,RIVERVIEW
+59,Central Corydon C.C-River Heights Site,NORTH RIVER HEIGHTS
+60,Mission Park,MISSION INDUSTRIAL
+61,Marcy Beaucage Park/Roblin Park C.C,ROBLIN PARK
+62,Slaw Rebchuk Monument,LORD SELKIRK PARK
+65,Powers-Selkirk Park South,WILLIAM WHYTE
+66,Powers-Selkirk Park North,WILLIAM WHYTE
+67,Lagimodiere Buffer-3,WINDSOR PARK
+68,Marion North Riverbank,CENTRAL ST. BONIFACE
+69,Adsum Park / Maples C.C,THE MAPLES
+70,Andrew Mynarski V.C. Park,MANDALAY WEST
+72,Coronation Park,NORWOOD EAST
+74,Brixford Park,MEADOWOOD
+75,Highbury Park,RIVER PARK SOUTH
+76,Shamrock School Park,SOUTHDALE
+78,South St. Vital Greenway-2,RIVER PARK SOUTH
+80,St. Vital Memorial Park,ELM PARK
+82,Arrowwood Tot Lot,GARDEN CITY
+83,Egerton-Essex Riverbank,GLENWOOD
+84,Wellington Crescent-Hugo Park,ROSLYN
+92,Lyndale Drive Park North,NORWOOD WEST
+93,Assiniboia West Rec. Assoc.-Morgan Site,CRESTVIEW
+96,Kleysen Park,LINDEN WOODS
+97,La Verendrye-La Fleche Riverbank,NORTH ST. BONIFACE
+98,Provencher Park / Notre Dame C.C,CENTRAL ST. BONIFACE
+100,Trappiste Monastery Forest,PERRAULT
+103,Melrose Park C.C,MUNROE WEST
+110,Carter Park,EBBY-WENTWORTH
+111,Grant Avenue Greenspace-2,EARL GREY
+112,Grant Avenue Greenspace-5,EBBY-WENTWORTH
+113,Grant Avenue Greenspace-3,EBBY-WENTWORTH
+114,Earl Grey C.C,EARL GREY
+115,River Osborne C.C-Edna Stefaniuk Gym Site,McMILLAN
+116,River Osborne Wading Pool/Block Parents,McMILLAN
+117,Wellington-Gertrude Buffer,McMILLAN
+118,Benson Park,McMILLAN
+119,Scott-Stradbrook Park,RIVER-OSBORNE
+122,Mayfair Park East,RIVER-OSBORNE
+123,Mayfair Recreation Centre,RIVER-OSBORNE
+124,Fort Rouge Park,RIVER-OSBORNE
+125,Gerald James Lynch Park,RIVER-OSBORNE
+126,Munson Park,CRESCENTWOOD
+127,Enderton Park,CRESCENTWOOD
+128,Maryland Bridge Park,WELLINGTON CRESCENT
+134,Lagimodiere Buffer-1,WINDSOR PARK
+140,Fort Rouge Leisure Centre,LORD ROBERTS
+143,Westview Park,ST. JAMES INDUSTRIAL
+176,Disraeli Buffer South,SOUTH POINT DOUGLAS
+185,Disraeli Buffer North,SOUTH POINT DOUGLAS
+188,William Whyte Park,SOUTH POINT DOUGLAS
+190,Brooklyn Street South Park,KING EDWARD
+191,David Johnston Memorial Park,KING EDWARD
+192,Brooklyn Street North Playground,KING EDWARD
+193,Brooklyn Street Park,KING EDWARD
+195,King Edward & Ness Playground,KING EDWARD
+196,King Edward & Silver Park,KING EDWARD
+198,Luigi D'Ottavio Park,KENSINGTON
+199,Jae Eadie Park,BRUCE PARK
+200,Parkside Easement,BRUCE PARK
+201,Riverbend Buffer,BRUCE PARK
+203,Collegiate Tennis Courts,KING EDWARD
+204,Collegiate Park,KING EDWARD
+205,Marjorie Park,KING EDWARD
+206,Bord-Aire C.C,KING EDWARD
+207,Norberry-Glenlee C.C,NORBERRY
+209,Bruce Park,BRUCE PARK
+210,Truro Creek Greenway-Albany East,DEER LODGE
+212,Truro Creek Greenway-Truro East,DEER LODGE
+214,Truro Park,DEER LODGE
+216,Bourkevale C.C,BRUCE PARK
+217,Kapyong Park,KING EDWARD
+218,Inglewood Park,KING EDWARD
+219,J. Frank Johnston Park,DEER LODGE
+220,Linwood Lot,DEER LODGE
+221,Deer Lodge C.C,DEER LODGE
+223,Strathmillan Lodge Park,SILVER HEIGHTS
+224,Leicester Square Playground,JAMESWOOD
+225,Listowel Playground,JAMESWOOD
+226,Silver-Moray Greenspace,JAMESWOOD
+227,Silver Greenway-1,JAMESWOOD
+229,Silver Greenway-2,JAMESWOOD
+231,Woodhaven Boulevard Greenspace South,WOODHAVEN
+232,Woodhaven Boulevard Greenspace North,WOODHAVEN
+233,Woodhaven Park C.C,WOODHAVEN
+234,Assiniboine-Windham Riverbank,BIRCHWOOD
+236,Harris Boulevard,KIRKFIELD
+237,George Minaker Park,BOOTH
+238,Golden Gate Park / Sturgeon Heights C.C,SILVER HEIGHTS
+239,Olive Greenspace,BIRCHWOOD
+240,Birchwood Park,BIRCHWOOD
+241,Neil Bardal Memorial Park,SILVER HEIGHTS
+242,Sturgeon Road Buffer South,BOOTH
+243,Sturgeon Road Buffer North,BOOTH
+244,Living Prairie Museum,BOOTH
+245,St. Charles Grove,GLENDALE
+246,Suzanne-Jeanette Bay Park,GLENDALE
+247,Bernadine Crescent Park,BUCHANAN
+248,Bernadine Stradford Park,BUCHANAN
+249,Alexander Ross Athletic Fields,BUCHANAN
+251,Isbister Park,BUCHANAN
+252,Saskatchewan Avenue Greenway-2,BUCHANAN
+253,Assiniboia West C.C,CRESTVIEW
+254,Saskatchewan Avenue Greenway-3,CRESTVIEW
+255,Lakewood Recreation Area,CRESTVIEW
+256,Harvlong / Topaz Park,CRESTVIEW
+257,South Lake Park,CRESTVIEW
+258,Lumsden Pond,CRESTVIEW
+259,Corbett Park,CRESTVIEW
+260,Optimist Park,SASKATCHEWAN NORTH
+261,Lake Ridge Park,CRESTVIEW
+262,Costello Park,CRESTVIEW
+263,Muriel / Sage Park,CRESTVIEW
+264,Voyageur Park,CRESTVIEW
+265,Saskatchewan Avenue Greenway-4,CRESTVIEW
+266,Muriel Street Park,STURGEON CREEK
+267,Crestview Village Tennis Courts,HERITAGE PARK
+268,Goodridge Park,HERITAGE PARK
+269,Sturgeon Creek Parkway-B,HERITAGE PARK
+270,Gibraltar Playground,CRESTVIEW
+271,Rogan Drive Park,CRESTVIEW
+272,Ridley Park,CRESTVIEW
+273,Cavalier Triangle,CRESTVIEW
+274,Sturgeon Creek Parkway-C,STURGEON CREEK
+275,Amarynth Crescent Park,STURGEON CREEK
+276,Uplands Crescent Park,HERITAGE PARK
+277,Heritage School Greenstrip,HERITAGE PARK
+278,Pat Phillips Park,HERITAGE PARK
+279,Heritage Victoria C.C,HERITAGE PARK
+280,Benjaminson Park,WESTWOOD
+281,Coleridge Park,WESTWOOD
+283,Browning Boulevard Extension,WESTWOOD
+284,Reynolds Park,WESTWOOD
+285,Kirkfield-Westwood C.C,WESTWOOD
+286,Canoe Bay Park,WESTWOOD
+287,Whitegates Park,WESTWOOD
+288,Erlandson Park,WESTWOOD
+289,John Steel Park,WESTWOOD
+290,Carroll Park,WESTWOOD
+291,Bedson Park,WESTWOOD
+292,Kirkfield-Westwood C.C-McBey Site,KIRKFIELD
+293,Woodlands Park,KIRKFIELD
+295,Omand's Creek Park North,OMAND'S CREEK INDUSTRIAL
+297,Birchbark Bay Park,TEMPLETON-SINCLAIR
+298,Tokarz Park,TEMPLETON-SINCLAIR
+299,Swailes Park,TEMPLETON-SINCLAIR
+300,McBeth House & Grounds,RIVERGROVE
+302,McBeth Park Playground,RIVERGROVE
+303,Rivergrove Park,RIVERGROVE
+304,Riverbend Park,RIVERBEND
+305,Kirkham Park,RIVERBEND
+306,Red River C.C,RIVERBEND
+307,Malden Close Park,THE MAPLES
+308,Marlow Court Tot Lot,THE MAPLES
+309,Manor House Tot Lot,THE MAPLES
+310,Madrigal-Marquis Tot Lot,THE MAPLES
+311,Neville-Margate Tot Lot,THE MAPLES
+312,Maples C.C-James Nisbet Site / Marnie Tot Lot,THE MAPLES
+313,Hiddleston Tot Lot,THE MAPLES
+314,Carleton-Mandan Tot Lot,THE MAPLES
+315,Councillor Bay Tot Lot,THE MAPLES
+316,Playgreen Tot Lot,THE MAPLES
+317,Manila-Jefferson Tot Lot,THE MAPLES
+318,Cannes Tot Lot,THE MAPLES
+319,Bondar Bay Tot Lot,THE MAPLES
+320,Arthur Wright / Filkow Park,MANDALAY WEST
+321,Arthur Wright / Duval Park,MANDALAY WEST
+322,Dunham Park,MANDALAY WEST
+323,Foxwarren Lake Park,MANDALAY WEST
+324,Ambergate Park,AMBER TRAILS
+325,Simkin Park,LEILA-McPHILLIPS TRIANGLE
+326,Pipeline Walkway,LEILA-McPHILLIPS TRIANGLE
+327,Leila Simkin Greenspace,LEILA-McPHILLIPS TRIANGLE
+328,Jack Moscovitch Park,LEILA-McPHILLIPS TRIANGLE
+331,Seven Oaks Park & Museum,SEVEN OAKS
+332,Bleak House,SEVEN OAKS
+333,Volunteer Park,SEVEN OAKS
+336,Kingsbury Park,SEVEN OAKS
+337,Burrin Tot Lot,SEVEN OAKS
+338,Leila Tot Lot,SEVEN OAKS
+339,Matheson Park,JEFFERSON
+340,West Kildonan Memorial C.C,JEFFERSON
+341,Helen Promislow Park,JEFFERSON
+342,Kingsbury-Andrews Park,JEFFERSON
+343,Seven Oaks Arboretum,JEFFERSON
+344,Beryl Watts Park / Vince Leah C.C,MARGARET PARK
+345,Kildonan Park,KILDONAN PARK
+346,Tanner Tot Lot,MARGARET PARK
+347,Weinberg Tot Lot,MARGARET PARK
+348,Dakota Park / Dakota C.C,RIVER PARK SOUTH
+349,Newton Tot Lot,MARGARET PARK
+350,Margaret-Southall Greenspace,MARGARET PARK
+351,Harry Hatz Palatnick Memorial Park,GARDEN CITY
+352,Primrose Tot Lot,GARDEN CITY
+353,Aster-Dahlia Park,GARDEN CITY
+354,Teakwood Tot Lot,GARDEN CITY
+355,McPhillips Greenway-4,GARDEN CITY
+356,Colish Tot Lot,GARDEN CITY
+357,Richardson-Fir Tot Lot,GARDEN CITY
+358,Richardson-McCurdy Tot Lot,GARDEN CITY
+359,McPhillips Greenway-3,GARDEN CITY
+360,Verbena Park,GARDEN CITY
+361,Gilia Tot Lot,GARDEN CITY
+362,McPhillips Greenway-2,GARDEN CITY
+363,McPhillips Greenway-1,GARDEN CITY
+364,Vanier Drive Park,GARDEN CITY
+365,Montcalm Tot Lot,GARDEN CITY
+366,Forest Park,GARDEN CITY
+367,Diplomat Tot Lot,GARDEN CITY
+368,Tanoak Tot Lot,GARDEN CITY
+369,Garden City C.C,GARDEN CITY
+370,Chochinov Park,TEMPLETON-SINCLAIR
+371,Ambassador Park,TEMPLETON-SINCLAIR
+372,Consulate Park,TEMPLETON-SINCLAIR
+373,Attache Park,TEMPLETON-SINCLAIR
+374,Amanda Crescent Park,TEMPLETON-SINCLAIR
+377,Disraeli Buffer-1,NORTH POINT DOUGLAS
+378,Disraeli Buffer-2,NORTH POINT DOUGLAS
+379,Dr. Jim Shaver Memorial Playground,NORTH POINT DOUGLAS
+382,Barber-Rover Park,NORTH POINT DOUGLAS
+383,Prince Edward-Rover Buffer,NORTH POINT DOUGLAS
+385,Rover Dike West,NORTH POINT DOUGLAS
+386,MichaÃ«lle Jean Park / Norquay C.C,NORTH POINT DOUGLAS
+387,Joe Zuken Heritage Park,NORTH POINT DOUGLAS
+388,Markian Shashkevich Park,NORTH POINT DOUGLAS
+389,Turtle Island Community Centre,LORD SELKIRK PARK
+390,Robinson Park,LORD SELKIRK PARK
+391,Immaculate Heart Playground,DUFFERIN
+392,Old Exhibition Athletic Grounds,DUFFERIN
+393,William Whyte School Athletic Fields,WILLIAM WHYTE
+394,Pritchard Playground,WILLIAM WHYTE
+395,Taras G. Shevchenko Park,WILLIAM WHYTE
+396,Alfred Tot Lot,WILLIAM WHYTE
+398,Rejoice Fun Park,WILLIAM WHYTE
+399,Boyd Park,BURROWS CENTRAL
+400,St. John's Park,ST. JOHN'S PARK
+401,John Yuzyk Park-Sinclair Park C.C-Robertson Site,ROBERTSON
+402,Machray Park,ST. JOHN'S
+403,John Shaley Tot Lot / Sinclair Park C.C,ROBERTSON
+404,Tinniswood Bay Park,ROBERTSON
+406,Luxton C.C,LUXTON
+407,St. John's Leisure Centre,ST. JOHN'S
+408,Salter Tot Lot,ST. JOHN'S
+409,McGregor Park,ST. JOHN'S
+410,Parr Tot Lot,INKSTER-FARADAY
+411,McKenzie Tot Lot,INKSTER-FARADAY
+412,Arlington Tot Lot,INKSTER-FARADAY
+413,Luxton CPR Buffer,ROBERTSON
+414,Polson Bay Park-4,ROBERTSON
+415,Polson Bay Park-5,ROBERTSON
+416,Polson Bay Park-1,ROBERTSON
+417,Polson Bay Park-2,ROBERTSON
+418,Polson Bay Park-3,ROBERTSON
+419,Bender Hydro Buffer,MYNARSKI
+421,Andrews Tot Lot,ST. JOHN'S
+422,Lansdowne Buffer North,ROBERTSON
+423,Lansdowne Buffer South,ROBERTSON
+424,Clara Hughes Park,JEFFERSON
+433,Speers Dussault Walkway,WINDSOR PARK
+454,Columbus Park,MUNROE WEST
+455,Senior Citizens Park,KILDONAN DRIVE
+456,Bronx Park C.C,KILDONAN DRIVE
+457,Centennial Park,ROSSMERE-B
+458,Glenn McWhinney Park,ROSSMERE-B
+460,Henderson Buffer,KILDONAN DRIVE
+461,Anderson Park,ROSSMERE-A
+462,Fraser's Grove Park,KILDONAN DRIVE
+463,Pleasant Bay Park,ROSSMERE-A
+464,McLeod Park,ROSSMERE-A
+465,Durness Park,ROSSMERE-A
+466,Dounreay Park,ROSSMERE-A
+467,East End Cultural & Leisure Centre,CHALMERS
+468,Sherwood Park,MUNROE EAST
+469,Morse Place C.C,MUNROE EAST
+470,Armstrong Park,MUNROE EAST
+471,East Elmwood C.C,MUNROE EAST
+472,Panet CPR Buffer,MUNROE EAST
+473,Girdwood Park,MUNROE EAST
+474,Braeside Park,MUNROE EAST
+475,Garvie Bay Park,MUNROE EAST
+476,Green Valley Bay Park,VALLEY GARDENS
+477,Civic Park,VALLEY GARDENS
+478,Avaco-Snowdon Park,VALLEY GARDENS
+479,Cheriton Park East,ROSSMERE-A
+480,Arby Bay Park,ROSSMERE-A
+481,North Kildonan C.C,ROSSMERE-A
+482,Raleigh Buffer-3,ROSSMERE-A
+483,Raleigh Park,ROSSMERE-A
+484,Corinne Park,ROSSMERE-A
+485,de Graff Bay Park,ROSSMERE-A
+486,Raleigh Buffer-1,ROSSMERE-A
+487,Raleigh Buffer-2,ROSSMERE-A
+488,Whellams Lane Park,KILDONAN DRIVE
+489,Essar Greenspace,KILDONAN DRIVE
+497,Tamarind Park,KILDONAN DRIVE
+499,Paufeld Park,ROSSMERE-A
+504,Jill Officer Park,ROSSMERE-A
+506,Donwood Park,ROSSMERE-A
+507,Amber Vasas Memorial Park,ROSSMERE-A
+508,Bret Bay Park,ROSSMERE-A
+510,Elva Fletcher Way,LORD ROBERTS
+516,Bunn's Creek Greenway-A,VALHALLA
+519,Rockspur Park,VALLEY GARDENS
+520,Tu-pelo Avenue Park,VALLEY GARDENS
+521,Red Oak Park,SPRINGFIELD SOUTH
+522,Rotary Sunrise Park,GRASSIE
+523,Siddall / Werrell Park,VALLEY GARDENS
+524,John De Graff Park,VALLEY GARDENS
+525,Manthorne Park,SPRINGFIELD NORTH
+529,Sun Valley Park South,SPRINGFIELD NORTH
+530,Michael Hrushovetz Park,SPRINGFIELD NORTH
+531,Peppertree Park,SPRINGFIELD NORTH
+532,Gateway Buffer,SPRINGFIELD NORTH
+533,Gateway C.C,SPRINGFIELD NORTH
+534,Gateway C.C,SPRINGFIELD NORTH
+536,Springfield Buffer,SPRINGFIELD SOUTH
+537,Bunn's Creek Greenway-E,SPRINGFIELD SOUTH
+539,Kildonan Meadows Park,MEADOWS
+540,Kildonan Meadows Park South,MEADOWS
+541,Tomlinson Park,VALLEY GARDENS
+542,Aluthra Place,VALLEY GARDENS
+543,Molson Parkette,VALLEY GARDENS
+544,London-Reay Park,VALLEY GARDENS
+545,Tanya Park,SPRINGFIELD SOUTH
+547,East End C.C,MELROSE
+548,Yale Avenue Playground,VICTORIA WEST
+549,Park Circle,KERN PARK
+550,Billy McCann Park,VICTORIA WEST
+551,William Reid Park,KERN PARK
+552,Kern Park,KERN PARK
+553,Transcona Retired Citizens Centre,VICTORIA WEST
+555,Maple Leaf Park,VICTORIA WEST
+556,Wayoata Buffer-4,KILDARE-REDONDA
+557,Wayoata Buffer-5,KILDARE-REDONDA
+558,Victoria Jason Park,KILDARE-REDONDA
+559,Susan Auch Park,KILDARE-REDONDA
+560,Pandora Buffer West,KILDARE-REDONDA
+561,Peter Martin Park,KILDARE-REDONDA
+562,Wayoata Buffer-3,KILDARE-REDONDA
+563,Wayoata Buffer-2,KILDARE-REDONDA
+564,Wayoata Buffer-1,KILDARE-REDONDA
+565,Pandora Buffer East-1,KILDARE-REDONDA
+566,Transcona Stadium Complex,KILDARE-REDONDA
+569,Wabasha Buffer,KILDARE-REDONDA
+570,Dave Abel Park,KILDARE-REDONDA
+571,Harry Sandulak Park,KILDARE-REDONDA
+572,Wayoata Buffer-9,KILDARE-REDONDA
+573,Wayoata Buffer-10,KILDARE-REDONDA
+574,J. M. 'Jock' McGeachan Park,KILDARE-REDONDA
+575,Frejuk Park,KILDARE-REDONDA
+576,Wayoata Buffer-8,KILDARE-REDONDA
+577,Wayoata Buffer-7,KILDARE-REDONDA
+578,Wayoata Buffer-6,KILDARE-REDONDA
+579,Redonda Lane Walkway-3,KILDARE-REDONDA
+580,Bramwell Park,KILDARE-REDONDA
+581,Redonda Lane Walkway-10,KILDARE-REDONDA
+582,Redonda Lane Walkway-9,KILDARE-REDONDA
+583,Redonda Lane Walkway-8,KILDARE-REDONDA
+584,Redonda Lane Walkway-6,KILDARE-REDONDA
+585,Redonda Lane Walkway-7,KILDARE-REDONDA
+586,Redonda Lane Walkway-4,KILDARE-REDONDA
+587,Redonda Lane Walkway-5,KILDARE-REDONDA
+588,Redonda Lane Walkway-1,KILDARE-REDONDA
+589,Redonda Lane Walkway-2,KILDARE-REDONDA
+590,Oxford Heights C.C,KILDARE-REDONDA
+591,Paulley Drive Park,KILDARE-REDONDA
+592,Baxter Bay Park,CANTERBURY PARK
+593,Millennium Park,CANTERBURY PARK
+594,Guay Park,GLENWOOD
+595,Harold Hatcher Park,CANTERBURY PARK
+596,Louise Page Park,RADISSON
+597,Thomas F. Copeland Memorial Park,RADISSON
+598,Transcona Trail Park,RADISSON
+599,McMeans Park,RADISSON
+603,Jurkowski Memorial Park,MELROSE
+604,Rotary Centenary Park,RADISSON
+605,Park City West C.C,MEADOWS
+606,Morley R. Kare Park,MEADOWS
+607,Kare Lookout Park,MEADOWS
+608,Barry Tot Lot,MISSION GARDENS
+609,Paulicelli Park,MISSION GARDENS
+610,Balaban Park,MISSION GARDENS
+611,Gerry Kuik Park,MISSION GARDENS
+612,Bernie Wolfe Park,MISSION GARDENS
+613,Elysian Field,MISSION GARDENS
+614,Helene Marsh Park,MISSION GARDENS
+615,Isobel Melville Park,MISSION GARDENS
+616,Symington Good Year Park,TRANSCONA SOUTH
+617,Victor Valde Memorial Park / South Transcona C.C,TRANSCONA SOUTH
+619,George Olive Nature Park,CANTERBURY PARK
+620,Transcona Optimist Park,CANTERBURY PARK
+621,Elmwood Park,GLENELM
+622,Clara Hughes Recreation Park,CHALMERS
+623,Martin Park,CHALMERS
+624,East Elmwood C.C Walkway,EAST ELMWOOD
+625,East Elmwood Park,EAST ELMWOOD
+626,Hap Hopkinson Memorial Park,EAST ELMWOOD
+627,Clyde Road Park,EAST ELMWOOD
+629,Chalmers C.C,CHALMERS
+630,Roy Davis Memorial Park,CHALMERS
+631,Hespeler Park,GLENELM
+632,Elmwood Winter Club,CHALMERS
+633,King Edward Park,TALBOT-GREY
+634,Talbot Tot Lot,GLENELM
+635,Riel Park,MEADOWOOD
+636,McCalman Parkette East,EAST ELMWOOD
+637,McCalman Parkette West,EAST ELMWOOD
+638,Sir Sam Steele Park,EAST ELMWOOD
+639,Ernie O'Dowda Park,CHALMERS
+640,Midwinter Park,CHALMERS
+641,Abdo and Samira El Tassi Park,CHALMERS
+642,Montcalm Park,CHALMERS
+643,Chliboyko Park North,ROBERTSON
+644,Chliboyko Park,ROBERTSON
+645,Morier Park,GLENWOOD
+646,Fermor Buffer Southwest,NORBERRY
+647,Worthington Riverbank,LAVALEE
+648,Knightsbridge Park,MEADOWOOD
+649,Hunterspoint Park,BETSWORTH
+650,Swindon Oaks Park,SOUTH TUXEDO
+651,Central Corydon C.C-Crescentwood Site,ROCKWOOD
+652,Montrose Park,CENTRAL RIVER HEIGHTS
+653,Brock Fleet Park,CENTRAL RIVER HEIGHTS
+654,La Barriere Park,TRAPPISTES
+655,Pembina Crest Greenspace,MAYBANK
+657,Bergen Cutoff Park,KILDONAN DRIVE
+658,Parc Lagimodiere Park,SOUTHLAND PARK
+660,Dockside Way Park,ISLAND LAKES
+661,Island Lakes Bridge South,ISLAND LAKES
+662,Lindsey Wilson Park,ISLAND LAKES
+663,Island Shore Park,ISLAND LAKES
+664,Chenier Window Park,ISLAND LAKES
+665,Waterfront Park,ISLAND LAKES
+666,Island Shore Window Park,ISLAND LAKES
+667,Island Lakes Bridge North,ISLAND LAKES
+668,Island Lakes Park,ISLAND LAKES
+669,Parc De La Seigneurie,ISLAND LAKES
+670,Southdale Southeast CPR Buffer,SOUTHDALE
+671,Pebble Beach CPR Buffer North,NIAKWA PLACE
+672,Southdale Northeast CPR Buffer,SOUTHDALE
+673,Willowlake Park,NIAKWA PLACE
+674,Southdale Northwest CPR Buffer,NIAKWA PLACE
+675,Mint Buffer,SOUTHDALE
+676,Southdale C.C,SOUTHDALE
+677,Lakewood Park East,SOUTHDALE
+678,Vermillion Park,SOUTHDALE
+679,Lakewood Park,SOUTHDALE
+680,Lakewood Park West,SOUTHDALE
+681,Edgewood Park,SOUTHDALE
+682,Edgewater Park,SOUTHDALE
+684,Burmac Park,SOUTHDALE
+685,Newcroft Park,SOUTHDALE
+686,Shamrock Park,SOUTHDALE
+687,Wickham Park,MAGINOT
+690,Archibald West Buffer,NIAKWA PARK
+692,Art McOuat Memorial Park,MAGINOT
+693,Baudoux Place Park,WINDSOR PARK
+695,Archibald CPR Buffer,WINDSOR PARK
+696,Applewood Park,WINDSOR PARK
+697,Agate Park,WINDSOR PARK
+699,Fontaine Park,WINDSOR PARK
+700,Crestwood Park,WINDSOR PARK
+701,Cherry Park,WINDSOR PARK
+702,Vincent Massey Park,WINDSOR PARK
+703,Berkshire Park,MAGINOT
+705,Howden Park,WINDSOR PARK
+707,Kavanagh Park,MISSION INDUSTRIAL
+708,Kavanagh Playground,DUFRESNE
+709,Marion-Dufresne Riverbank,DUFRESNE
+710,Happyland Park,ARCHWOOD
+711,Deniset Riverbank,ARCHWOOD
+713,Lambert Park,HOLDEN
+714,St. Boniface East Playground,HOLDEN
+715,St. Boniface East Rail Line Buffer,HOLDEN
+717,Archwood C.C,ARCHWOOD
+719,Winakwa C.C,WINDSOR PARK
+720,Durham Park,WINDSOR PARK
+721,Westmount Park,WINDSOR PARK
+722,Jubinville Park,WINDSOR PARK
+723,Lomond Park,WINDSOR PARK
+724,Dawson Road Buffer,WINDSOR PARK
+726,Notre Dame East Park,NORTH ST. BONIFACE
+727,Archibald Greenspace,NORTH ST. BONIFACE
+729,Parc Club Optimist-Saint Boniface-Optimist Club Park,CENTRAL ST. BONIFACE
+731,Maisonneuve Riverbank,NORTH ST. BONIFACE
+733,Provencher South Riverbank,CENTRAL ST. BONIFACE
+734,Provencher-Tissot Riverbank,TISSOT
+735,Archibald Riverbank,MISSION INDUSTRIAL
+736,Dugald Buffer,ST. BONIFACE INDUSTRIAL PARK
+746,Parc Orange Park,NORTH ST. BONIFACE
+747,Parc Joseph Royal,NORTH ST. BONIFACE
+749,Falcon Park,NORWOOD EAST
+750,Heather Park,NORWOOD EAST
+752,Dubuc Riverbank,NORWOOD EAST
+754,Marion South Riverbank,NORWOOD EAST
+755,Traverse Park,NORWOOD EAST
+756,Metcalfe North Riverbank,NORWOOD WEST
+759,Norwood C.C,NORWOOD WEST
+760,Enfield Park East,NORWOOD EAST
+761,Ashdale Greenspace,NORWOOD WEST
+762,Gauvin Park,NORWOOD WEST
+763,Egerton-Haig Riverbank,GLENWOOD
+764,St. Vital Outlook,GLENWOOD
+765,Glenwood C.C,GLENWOOD
+766,Blenheim Park,GLENWOOD
+767,St. Mary's-St. Anne's Parkway,ELM PARK
+768,Egerton-Clonard South Riverbank,GLENWOOD
+769,Egerton-Clonard North Riverbank,GLENWOOD
+770,Egerton-Imperial Riverbank,GLENWOOD
+772,Carey Park,ELM PARK
+773,Norfolk Park,KINGSTON CRESCENT
+774,Kingston Park,KINGSTON CRESCENT
+775,Dunkirk-Glen Buffer,NORBERRY
+776,Canoe Club Park,KINGSTON CRESCENT
+777,King George Park,GLENWOOD
+778,St. David Park,ST. GEORGE
+779,Fermor Avenue Image Route Park,ST. GEORGE
+780,Florence Pierce Park,NORBERRY
+781,Ducharme Park,ALPINE PLACE
+782,St. George Park,ST. GEORGE
+783,Morantz Park,LAVALEE
+784,Victoria Crescent River Access,VICTORIA CRESCENT
+785,Harris Park,VICTORIA CRESCENT
+786,Norberry Buffer,NORBERRY
+787,Sadler Riverbank,LAVALEE
+788,Norberry-Glenlee C.C-Walter Jennings Site,WORTHINGTON
+789,Pulberry Park,PULBERRY
+790,St. Vital Park,PULBERRY
+793,Parc Jules Mager Park,PULBERRY
+795,Demare-Dodick Park,PULBERRY
+796,Twin Pine Park,MINNETONKA
+797,Golden Willow Park,MINNETONKA
+798,Lavalee Park,LAVALEE
+799,Harmony Seiferts Buffer,MEADOWOOD
+800,Sandralm Bay Buffer,MINNETONKA
+801,Warrendale Buffer-2,MINNETONKA
+803,Willowmeade Park,MEADOWOOD
+804,Seine River Greenway-Bishop Grandin Boulevard,MEADOWOOD
+805,Wayne Ruff Park,MINNETONKA
+806,St. Germain Park,MINNETONKA
+807,Oakleaf Park,MINNETONKA
+808,John Bruce Park,MEADOWOOD
+809,Minnetonka Forest,MINNETONKA
+810,Greendell C.C,MINNETONKA
+811,Dr. D. W. Penner School Grounds,VISTA
+812,Parc Hazelwood Park,VISTA
+813,Brentford Park,MEADOWOOD
+814,Meadowood Park,MEADOWOOD
+816,Riccardo De Thomasis Park,DAKOTA CROSSING
+817,River Road Park East,RIVER PARK SOUTH
+819,Seine River Greenway-Perimeter,ST. VITAL PERIMETER SOUTH
+820,Charing Cross Park,RIVER PARK SOUTH
+821,Hal Rogers Kinsmen Park,RIVER PARK SOUTH
+822,Henteleff Park,NORMAND PARK
+823,Burland Park,RIVER PARK SOUTH
+824,Normand Park,NORMAND PARK
+825,Boni-Vital Greenway South A,NORMAND PARK
+826,Boni-Vital Greenway South B,RIVER PARK SOUTH
+827,Paddington-Highbury Park,RIVER PARK SOUTH
+828,Maple Grove Park,MAPLE GROVE PARK
+829,H. S. Paul Park,DAKOTA CROSSING
+830,Sioux Road W North Riverbank,ST. VITAL PERIMETER SOUTH
+831,Sioux Road W South Riverbank,ST. VITAL PERIMETER SOUTH
+833,Thunder Bay Park,MEADOWOOD
+834,William Johnstone Park,VISTA
+835,Christie Road Prop,ST. VITAL PERIMETER SOUTH
+837,Paul Boulevard Park,ST. VITAL PERIMETER SOUTH
+838,Forbes Road Lot,ST. VITAL PERIMETER SOUTH
+839,John Forsyth Park,DAKOTA CROSSING
+840,South St. Vital Greenway-3,RIVER PARK SOUTH
+841,South St. Vital Greenway-4,RIVER PARK SOUTH
+842,South St. Vital Greenway-5,RIVER PARK SOUTH
+843,Warde-Forsyth Buffer-West,RIVER PARK SOUTH
+844,River Road Park West,RIVER PARK SOUTH
+845,Dakota-Ashford Buffer,RIVER PARK SOUTH
+846,River Pointe Park,MINNETONKA
+847,Elswood Bole Park,DAKOTA CROSSING
+848,Smithdale Park,VIALOUX
+849,Vialoux Walkway,VIALOUX
+850,Pacific Junction Heritage Park,ELMHURST
+851,Chester Square,VARSITY VIEW
+852,Varsity View C.C-Tom Brown Tot Lot,VARSITY VIEW
+853,Gladys Bunn Park,ELMHURST
+854,Oscar Paulson Park,ELMHURST
+855,Bramble Drive Park,VARSITY VIEW
+856,Eric Coy Rec Centre,ERIC COY
+857,Oakdale McDowell Park,ERIC COY
+858,Parc Branconnier,BETSWORTH
+859,Assiniboine Woods-Sanders Buffer,RIDGEDALE
+860,Assiniboine Woods-Great Elm Buffer,RIDGEDALE
+862,South Assiniboine Parkway,SOUTHBOINE
+863,Bannatyne Grove,SOUTHBOINE
+864,Beaumont School Park,BETSWORTH
+866,Fraser Meadow,BETSWORTH
+867,Wilkes Buffer,WILKES SOUTH
+868,Berkley Square Park,BETSWORTH
+869,Beauchemin Park,SOUTHBOINE
+870,Kelly Landing,SOUTHBOINE
+872,Beaverdam Creek Window,BETSWORTH
+873,Westdale C.C-Pembina Trails Site,BETSWORTH
+874,Charleswood Place,WILKES SOUTH
+875,Beaverdam Creek Greenway,BETSWORTH
+876,Beaverdam Creek Park,BETSWORTH
+877,Lockhart McDowall Garden,SOUTHBOINE
+878,Westdale C.C,WESTDALE
+879,Lismer Green,WESTDALE
+880,Peri Green,WESTDALE
+881,Dellwood Green Park,WESTDALE
+882,Westdale Recreation Site,WESTDALE
+883,Westdale Recreation Site Pathway,WESTDALE
+884,Barker Buffer,RIVER WEST PARK
+885,La Fleche Park,RIVER WEST PARK
+886,Parc Morrissette,RIVER WEST PARK
+887,Park Place Buffer,SOUTH TUXEDO
+888,Lamont Island,TUXEDO
+889,Lancaster Island,TUXEDO
+890,Inverness Strip,TUXEDO
+891,Holdsworth Green Strip,TUXEDO
+892,Aldershot Strip,TUXEDO
+893,Birkenhead Strip,TUXEDO
+894,Tuxedo C.C,TUXEDO
+895,Tuxedo Grenfell Triangle,OLD TUXEDO
+896,Tuxedo Girton Triangle,OLD TUXEDO
+897,Tuxedo Chataway Triangle,OLD TUXEDO
+898,Heubach Park,TUXEDO
+899,Merle Guberman Park North,SOUTH TUXEDO
+900,Merle Guberman Park South,SOUTH TUXEDO
+901,Edward Shindleman Park,SOUTH TUXEDO
+905,Assiniboine Forest,ASSINIBOINE PARK
+906,Warde-Paddington Buffer,RIVER PARK SOUTH
+907,Tuxedo Southwest Buffer,SOUTH TUXEDO
+908,Tuxedo Southeast Buffer,SOUTH TUXEDO
+909,West Taylor Buffer-1,SOUTH TUXEDO
+910,Grant Park Athletic Grounds,GRANT PARK
+912,Harrow Park,ROCKWOOD
+913,Warsaw Crescent Park,ROCKWOOD
+914,McMillan-Thurso Island,CRESCENTWOOD
+915,Taylor Green Strip-4,SOUTH RIVER HEIGHTS
+916,Taylor Green Strip-3,SOUTH RIVER HEIGHTS
+917,William Osler Park,SOUTH RIVER HEIGHTS
+918,Cordova Park,NORTH RIVER HEIGHTS
+919,Taylor Green Strip-2,SOUTH RIVER HEIGHTS
+920,Sir John Franklin Park East,WELLINGTON CRESCENT
+921,Lindsay Buffer Strip A,NORTH RIVER HEIGHTS
+922,Lindsay Buffer Strip B,NORTH RIVER HEIGHTS
+923,Lindsay Buffer Strip C,NORTH RIVER HEIGHTS
+924,Lindsay Buffer Strip D,WELLINGTON CRESCENT
+925,Sir John Franklin Park,SIR JOHN FRANKLIN
+926,Andrew Currie Park,SIR JOHN FRANKLIN
+927,Assiniboine Parkway,SIR JOHN FRANKLIN
+928,Lanark St-Bay A,SIR JOHN FRANKLIN
+929,Lanark St-Bay B,SIR JOHN FRANKLIN
+930,Lanark St-Bay C,SIR JOHN FRANKLIN
+931,Lanark St-Bay E,SIR JOHN FRANKLIN
+932,Lanark St-Bay D,SIR JOHN FRANKLIN
+933,Taylor Green Strip-1,MATHERS
+934,Lanark St-Bay H,MATHERS
+935,Lanark St-Bay G,MATHERS
+936,Lanark St-Bay F,MATHERS
+937,Theodore Niizhotay Fontaine Park,SIR JOHN FRANKLIN
+938,Kenaston Willow Parkette West,OLD TUXEDO
+939,Kenaston Willow Parkette East,SIR JOHN FRANKLIN
+940,T. R. Hodgson Park,SIR JOHN FRANKLIN
+941,Joe Malone Park,MATHERS
+944,Ducharme Park South,PARC LA SALLE
+946,Ducharme Park North,RICHMOND LAKES
+948,Sherwood Forest Park,ST. NORBERT
+949,Parc St. Pierre,ST. NORBERT
+950,Parc De Moissac,ST. NORBERT
+951,Lord Avenue Park,ST. NORBERT
+953,Dorge Park,PARC LA SALLE
+954,St. Norbert C.C,ST. NORBERT
+955,La Salle Park,PARC LA SALLE
+956,Houde Drive Park,PARC LA SALLE
+957,South Winnipeg C.C-Ryerson Site,FORT RICHMOND
+958,Kilkenny Riverbank,FORT RICHMOND
+959,Baldry Creek Park,FORT RICHMOND
+960,Alex Bridge Park,FORT RICHMOND
+963,Radcliffe Park,FORT RICHMOND
+964,King's Park,FORT RICHMOND
+965,McGill Place Park,FORT RICHMOND
+966,Vassar-Kilkenny Park,FORT RICHMOND
+968,Dalhousie Forest,FORT RICHMOND
+972,Bairdmore Park,RICHMOND WEST
+973,Tranquil Bay Park,RICHMOND WEST
+974,Point West Park,RICHMOND WEST
+975,Sandpiper Park West,RICHMOND WEST
+976,Sandpiper Park East,RICHMOND WEST
+978,South Winnipeg C.C-Waverley Heights Site,WAVERLEY HEIGHTS
+979,Albrin Lake Park,WAVERLEY HEIGHTS
+981,Scurfield Park,WHYTE RIDGE
+982,Scurfield Park North,WHYTE RIDGE
+983,Don Smith Park,WHYTE RIDGE
+984,Leon Bell Park,WHYTE RIDGE
+985,Lakeshore Park,WAVERLEY HEIGHTS
+986,Alumni Place Triangle,WAVERLEY HEIGHTS
+987,Chancellor Park,WAVERLEY HEIGHTS
+988,Chancellor-CPR Buffer North,WAVERLEY HEIGHTS
+989,Chancellor-CPR Buffer South,WAVERLEY HEIGHTS
+990,Blue Lake Park,WAVERLEY HEIGHTS
+991,Waverley Richmond West Buffer-1,RICHMOND WEST
+992,Waverley Richmond West Buffer-3,RICHMOND WEST
+993,Belair Park,MAYBANK
+994,Ray Fennell Sports Centre,CHEVRIER
+995,Westridge C.C,MAYBANK
+996,Farwell Bay Greenspace,MAYBANK
+997,Marshall Crescent Park,MAYBANK
+998,Waller Park,MAYBANK
+999,Assiniboine Park,ASSINIBOINE PARK
+1001,Dickson Crescent Park,MAYBANK
+1002,Biscayne Bay Park,MAYBANK
+1003,Rampart Bay Park,MAYBANK
+1004,Beaumont Bay Park,MAYBANK
+1005,Beaumont Park,BEAUMONT
+1007,Parker-Somerville Buffer,BEAUMONT
+1008,Byng Island Buffer,BEAUMONT
+1009,Fort Garry C.C-Victoria Site,BEAUMONT
+1010,Crescent Drive Riverbank,CRESCENT PARK
+1011,Crescent Drive Park,CRESCENT PARK
+1012,Dove Bay Park,CRESCENT PARK
+1013,Kebir Place Playground,CRESCENT PARK
+1014,Fletcher Arms Park,CRESCENT PARK
+1015,Garry Manor Buffer,CRESCENT PARK
+1016,Sandra Crowson Park,CRESCENT PARK
+1017,Gary Hobson Memorial Park / Fort Garry C.C,CRESCENT PARK
+1018,Manchester Park East,WILDWOOD
+1019,Ruttan Bay Park,CRESCENT PARK
+1020,Manchester Park West,CRESCENT PARK
+1022,Toilers Memorial Park,POINT ROAD
+1023,Byng Park,POINT ROAD
+1024,Wavell Park North,RIVERVIEW
+1025,Wavell Buffer South,RIVERVIEW
+1026,Riverview C.C,RIVERVIEW
+1027,Fisher Park,RIVERVIEW
+1028,Riverdale Bridge Buffer,LORD ROBERTS
+1029,McKittrick Park,LORD ROBERTS
+1030,Berwick Bay Park,LORD ROBERTS
+1031,Hugo Street End Park,LORD ROBERTS
+1032,Nassau Square Park,LORD ROBERTS
+1033,Brandon Avenue Tot Lot,LORD ROBERTS
+1034,Will and Jeanine Richard Memorial Park,LORD ROBERTS
+1035,Don Gerrie Park,RIVERVIEW
+1036,Arnold Avenue Park,RIVERVIEW
+1037,Sun Valley Park North,SPRINGFIELD NORTH
+1038,Wilkes Waverley Greenspace,BROCKVILLE
+1040,Wightman Green,DEER LODGE
+1041,Truro Creek Greenway-Winchester,DEER LODGE
+1042,Truro Creek Greenway-Albany West,DEER LODGE
+1044,Truro Creek Greenway-Linwood East,DEER LODGE
+1045,Varsity View Sportsplex,RIDGEWOOD SOUTH
+1049,Osborne Village Green,McMILLAN
+1056,Stewart-St. Charles Playground,GLENDALE
+1057,Orchard Hill Park,ROYALWOOD
+1058,Fountainview Park,ROYALWOOD
+1059,Royalwood Park,ROYALWOOD
+1060,DeGroot Green,EAGLEMERE
+1061,John H. Coulter Park,EAGLEMERE
+1062,Courage Place Park,ST. VITAL PERIMETER SOUTH
+1063,Central Corydon C.C-Sir John Franklin Site,SIR JOHN FRANKLIN
+1065,Caron Park,RIVER WEST PARK
+1067,Point West Buffer,RICHMOND WEST
+1068,Waverley Perimeter Buffer,RICHMOND WEST
+1069,Henry Boux Park,ST. NORBERT
+1070,Kirkbridge Park,RICHMOND WEST
+1073,Corydon-Hugo Piazza,EARL GREY
+1075,Don Togo Park,RIVERVIEW
+1076,Whyte Ridge C.C,WHYTE RIDGE
+1077,Pritchard Plaza,NORTH POINT DOUGLAS
+1080,St. Catherine-Tremblay Riverbank,ARCHWOOD
+1083,Amber Trail Greenspace,AMBER TRAILS
+1084,Ambergate Trail,AMBER TRAILS
+1086,La Verendrye Park,CENTRAL ST. BONIFACE
+1088,North Winnipeg Parkway-Louis BakÃ³ River Landing,SOUTH POINT DOUGLAS
+1090,Lindenwood Drive West Buffer,LINDEN WOODS
+1096,Warde-Forsyth Buffer-East,RIVER PARK SOUTH
+1099,Dean Finlay Park / Windsor C.C,ELM PARK
+1101,Victoria Crescent Riverbank,VICTORIA CRESCENT
+1102,Mission Riverbank,NORTH ST. BONIFACE
+1103,Parc Trottier,PARC LA SALLE
+1104,Thelma J. Call Park,WAVERLEY HEIGHTS
+1105,Boulevard De La Seigneurie Buffer,FRAIPONT
+1106,Wildwood Park,WILDWOOD
+1107,Sumka Riverbank,ST. VITAL PERIMETER SOUTH
+1108,Hamel Riverbank,CENTRAL ST. BONIFACE
+1109,West Taylor Buffer-2,SOUTH TUXEDO
+1110,Southdale Southwest CPR Buffer,NIAKWA PLACE
+1111,Muys Park,LINDEN WOODS
+1114,Linden Woods C.C,LINDEN WOODS
+1115,Muys Park West,LINDEN WOODS
+1117,Fermor Buffer Northwest,WINDSOR PARK
+1118,Payment Street Park,RICHMOND LAKES
+1119,Swan Lake Grove Park,WAVERLEY HEIGHTS
+1121,St. Boniface Industrial Buffer South,ST. BONIFACE INDUSTRIAL PARK
+1123,Parker Gardens,PARKER
+1124,Lord Roberts C.C,LORD ROBERTS
+1125,Moug Park,RIDGEDALE
+1127,One Wellington Window Park,ROSLYN
+1128,Waverley Richmond West Buffer-2,RICHMOND WEST
+1129,Evesham Key Park,ELMHURST
+1130,Wildwood C.C,WILDWOOD
+1131,Sturgeon Creek Parkway-A,HERITAGE PARK
+1134,Warde-Lagimodiere Buffer,ISLAND LAKES
+1135,Boni-Vital Greenway North B,ELM PARK
+1136,Fermor Buffer South,NIAKWA PLACE
+1137,Frontenac Park,WINDSOR PARK
+1138,Tikina'gaan Park,NIAKWA PARK
+1139,Southdale Pathway,SOUTHDALE
+1140,John Bruce Riverbank,MEADOWOOD
+1142,Hewitt Park,ELMHURST
+1143,Fermor Buffer Northeast,WINDSOR PARK
+1144,Egerton-Humboldt Riverbank,GLENWOOD
+1145,Stewart / Livinia Park,BUCHANAN
+1146,Van Walleghem Park,LINDEN WOODS
+1147,Nichol Green,NORBERRY
+1148,Lagimodiere Buffer-2,WINDSOR PARK
+1149,St. Boniface Industrial Buffer North,ST. BONIFACE INDUSTRIAL PARK
+1150,Charleswood Memorial Park - The Burn,BETSWORTH
+1151,Parc Marlene Street Park,LAVALEE
+1154,Wellington Wardlaw Buffer,McMILLAN
+1156,Whittier Park,NORTH ST. BONIFACE
+1158,Grimsby Park,RIVER PARK SOUTH
+1161,Lyndale Drive Park South,NORWOOD WEST
+1162,Boni-Vital Greenway North A,GLENWOOD
+1163,Morrow Riverbank,ALPINE PLACE
+1165,Pebble Beach CPR Buffer South,NIAKWA PLACE
+1167,Desjardins Park,ISLAND LAKES
+1169,Tache Promenade,CENTRAL ST. BONIFACE
+1170,Stillwater Park,SOUTHDALE
+1171,Watson Buffer,LEILA-McPHILLIPS TRIANGLE
+1173,Elmwood Kildonan Pool,VALLEY GARDENS
+1174,Lindenwood Drive West Park,LINDEN WOODS
+1179,Aberdeen Adventure Playground,NORTH POINT DOUGLAS
+1181,Carrigan Place Woodlot,FORT RICHMOND
+1182,Maginot CPR Buffer,MAGINOT
+1183,Ambassador Buffer,TEMPLETON-SINCLAIR
+1186,Maples C.C-Elwick Site,THE MAPLES
+1187,Sioux-Prairie Grove Riverbank,ST. VITAL PERIMETER SOUTH
+1188,McGregor CPR Buffer,MARGARET PARK
+1190,Wellington Stradbrook Buffer,McMILLAN
+1191,West Taylor Buffer-3,SOUTH TUXEDO
+1192,Disraeli-George Buffer,SOUTH POINT DOUGLAS
+1193,St. Anne's-Shorehill Riverbank,DAKOTA CROSSING
+1194,Plaza Drive Park,PEMBINA STRIP
+1197,Tom Chester Park,MARLTON
+1198,Beliveau Forest,WORTHINGTON
+1199,Linden Ridge Park,LINDEN RIDGE
+1200,Dovercourt Park,LINDEN RIDGE
+1202,Harte Trail,RIDGEWOOD SOUTH
+1205,Seine River Greenway-Woodydell Novavista,MEADOWOOD
+1210,Rotary Heritage Park,RADISSON
+1212,Edelweiss Park,ROSSMERE-A
+1214,Syndicate Tot Lot,NORTH POINT DOUGLAS
+1215,Vanderbilt Park,WHYTE RIDGE
+1217,Leila Triangle,JEFFERSON
+1218,Sturgeon Road Athletic Field,HERITAGE PARK
+1220,St. James Memorial Sports Park,AIRPORT
+1221,St. James Civic Centre,DEER LODGE
+1222,Reykdal Family Park,KILDARE-REDONDA
+1223,Dr. Louis Slotin Park,LUXTON
+1224,The Passage,SOUTHBOINE
+1225,Daniel Flood Park,RIDGEDALE
+1232,Legion Memorial Playground,KING EDWARD
+1233,McBey Playground,KIRKFIELD
+1236,Chief Peguis Trail NE,KILDONAN DRIVE
+1237,Chief Peguis Trail SE,KILDONAN DRIVE
+1238,Charleswood Bridge South,VIALOUX
+1240,Transcona Trail-D,RADISSON
+1242,Pinehurst / Byron Park,KIRKFIELD
+1243,Oblate Field,GLENDALE
+1246,Cedar Ranch Buffer,MISSION GARDENS
+1249,Whittier Park-Messager,NORTH ST. BONIFACE
+1251,Hammond-Cullen Pathway,WESTDALE
+1252,Donald Riverbank,RIVERVIEW
+1254,Transcona Trail-C,RADISSON
+1259,Grace Street Tot Lot,SOUTH POINT DOUGLAS
+1263,Euclid / Austin Passive Park,NORTH POINT DOUGLAS
+1264,Shorehill Drive Park,ROYALWOOD
+1269,St. James Greenspace,DEER LODGE
+1294,South St. Vital Greenway-1,RIVER PARK SOUTH
+1296,Bard Place Park,SOUTH TUXEDO
+1297,St. James Assiniboia Centennial Pool,STURGEON CREEK
+1299,Charleswood Bridge North,BIRCHWOOD
+1302,The Meadows,MEADOWS
+1313,Kilcona Park,KIL-CONA PARK
+1315,Bois-des-esprits Extension,ROYALWOOD
+1318,Grace-Dewdney Park,SOUTH POINT DOUGLAS
+1322,Pollock Island,ST. NORBERT
+1323,Santa Fe Park,MANDALAY WEST
+1324,Sir Winston Churchill Park,CANTERBURY PARK
+1325,Rick Boychuck Bay Park,MISSION GARDENS
+1326,Dufferin Tot Lot-Kinsman,LORD SELKIRK PARK
+1328,Olympic Park,SPRINGFIELD NORTH
+1329,Headmaster-Sunny Morning Park,SPRINGFIELD NORTH
+1330,Dr. Jose Rizal Park,MANDALAY WEST
+1331,North Perimeter Park,RIVERGROVE
+1332,Concordia Ave E-Reg Wyatt Path,GRASSIE
+1333,de Graaf Nature Park,GRASSIE
+1336,Burrows Alfred Walkway,NORTH POINT DOUGLAS
+1338,Amber Trails Walk,AMBER TRAILS
+1339,Leila-Strasbourg Park,AMBER TRAILS
+1342,The Oaks Path,ASSINIBOIA DOWNS
+1343,The Oaks Greenspace,ASSINIBOIA DOWNS
+1344,Ken Oblik Parkway,SOUTH POINTE
+1348,Bridgwater Forest Path,BRIDGWATER FOREST
+1349,Blue Sun Park,SAGE CREEK
+1351,Appletree-Bridgeland Dr N Park,BRIDGWATER FOREST
+1354,Inderjit Claire Park,GRASSIE
+1361,Buhler Recreation Park,TRANSCONA SOUTH
+1363,Bridgwater Forest Park,BRIDGWATER FOREST
+1370,Sir John A. MacDonald Park,MEADOWS
+1371,Bridgewood-Perfanick Park,GRASSIE
+1372,Tallgrass Park,SAGE CREEK
+1373,Wood Sage Park,SAGE CREEK
+1374,River Ridge Riverbank Park,RIVERGROVE
+1375,River Ridge Walkway,RIVERGROVE
+1377,Sage Creek Buffer,SAGE CREEK
+1378,St. Charles Forest,ASSINIBOIA DOWNS
+1379,Prairie Oaks Park,ASSINIBOIA DOWNS
+1380,Heartstone Buffer,MISSION GARDENS
+1381,The Oaks Forest,ASSINIBOIA DOWNS
+1382,The Oaks River Access,ASSINIBOIA DOWNS
+1383,John Blumberg Park,ASSINIBOIA DOWNS
+1385,Parc ElzÃ©ar Goulet Park,NORTH ST. BONIFACE
+1389,Taggart Woods,TRANSCONA SOUTH
+1390,Transcona Trail-B,REGENT
+1396,Pandora Buffer East-2,KILDARE-REDONDA
+1397,Creek Bend Riverbank,DAKOTA CROSSING
+1399,Shorehill Riverbank,DAKOTA CROSSING
+1404,Fort Douglas Park,SOUTH POINT DOUGLAS
+1407,Shorehill Bridgetown Park,ROYALWOOD
+1408,La Salle River Greenway-C,TRAPPISTES
+1409,Camp Amisk,PERRAULT
+1410,Shorehill Demetrioff Park,ROYALWOOD
+1412,Frog Plain Park,RIVERBEND
+1413,Highbury Walkway South,RIVER PARK SOUTH
+1415,Keslar Park,FAIRFIELD PARK
+1417,Bishop Grandin Greenway,WORTHINGTON
+1436,Lindenwoods Park,LINDEN WOODS
+1442,Abbeydale Path,BRIDGWATER FOREST
+1443,Seine River Greenway-Prairie Grove,ST. VITAL PERIMETER SOUTH
+1447,Birmingham Place Park,LINDEN WOODS
+1451,Matt Jonsson Memorial Skatepark,HERITAGE PARK
+1478,Sargent Tommy Prince MM Veterans Park,DUFFERIN
+1479,Forrest Tot Lot,JEFFERSON
+1480,Boulton-Mathers Retention Pond,MATHERS
+1482,Vermette Park Site,ST. VITAL PERIMETER SOUTH
+1484,Southside Park,ROYALWOOD
+1485,Keslar Pond Access South,FAIRFIELD PARK
+1489,Van Hull Park,NORMAND PARK
+1492,Sturgeon Road and Silver Avenue Dog Park,MURRAY INDUSTRIAL PARK
+1495,Gladstone-Rover Greenspace,NORTH POINT DOUGLAS
+1511,Burland Window Park,RIVER PARK SOUTH
+1512,Bellemer Park,PARC LA SALLE
+1534,La Salle River Greenway-B,TRAPPISTES
+1535,Minerva Properties,PERRAULT
+1539,Deer Lodge C.C,DEER LODGE
+1633,South St. Vital Greenway-6,DAKOTA CROSSING
+1637,Keslar Pond Access North,FAIRFIELD PARK
+1638,Churchill Drive Park,RIVERVIEW
+1657,Churchill Drive Community Gardens,RIVERVIEW
+1658,Southbridge-Willowlake Riverbank,NIAKWA PLACE
+1661,Dakota-Tufnell Buffer,RIVER PARK SOUTH
+1665,Northeast Pioneers Greenway-North,SPRINGFIELD NORTH
+1666,Northeast Pioneers Greenway-South,VALLEY GARDENS
+1667,Trappiste Monastery,TRAPPISTES
+1668,La Salle River Greenway-A,TRAPPISTES
+1707,Ronald Houston Park,CANTERBURY PARK
+1767,McLean's Pumping Station,ST. BONIFACE INDUSTRIAL PARK
+1768,Beecher Tot Lot,TEMPLETON-SINCLAIR
+1847,Archambault Park,GRASSIE
+1907,Grandmont Park,RICHMOND LAKES
+2407,Bois-des-esprits Window Park,ROYALWOOD
+2448,Odd Fellows Green,RIDGEDALE
+2508,Silkwood Park,AMBER TRAILS
+2517,Creek Bend-Perimeter Riverbank,DAKOTA CROSSING
+2519,Guy Savoie-Shady Shores Dr W Park,ST. BONIFACE INDUSTRIAL PARK
+2520,Parc Ron Duhamel Park,SAGE CREEK
+2521,Wild Iris Park,SAGE CREEK
+2522,Edward Turner Drive Park,SAGE CREEK
+2567,Van Hull Path,NORMAND PARK
+2727,La Porte Place Greenspace,PARC LA SALLE
+2767,Westwood Green,WESTWOOD
+2807,Oak Lawn Park,BRIDGWATER FOREST
+2809,Amber Trails Buffer,AMBER TRAILS
+2812,Amber Trails Path West,AMBER TRAILS
+2815,Mosselle Greenspace,AMBER TRAILS
+2818,Bison-Park East Park,BRIDGWATER CENTRE
+2819,Bison-Jacob's Creek Park,BRIDGWATER CENTRE
+2820,Bison-Cooper's Town Park,BRIDGWATER CENTRE
+2821,Bison-Park West Drive Park,BRIDGWATER CENTRE
+2825,Bridgwater Lakes Paths,BRIDGWATER LAKES
+2828,Water Bend Park,BRIDGWATER LAKES
+2830,Bluemeadow-North Town Park,BRIDGWATER LAKES
+2831,Bridgwater Lakes Park,BRIDGWATER LAKES
+2834,Tedham Park,BRIDGWATER LAKES
+2836,Creekside-Springwater Park,BRIDGWATER LAKES
+2840,Mountbatten Park,ST. VITAL PERIMETER SOUTH
+2847,Ken Oblik Parkway,SOUTH POINTE
+2867,Burning Glass Park,SAGE CREEK
+2868,Dr. David Friesen Drive Park,SAGE CREEK
+2869,Des Hivernants North Park,SAGE CREEK
+2887,Union Tot Lot,CHALMERS
+2889,Transcona Centennial Square,VICTORIA WEST
+2927,Hatcher Road Buffer,MISSION GARDENS
+2967,Highbury Walkway South,RIVER PARK SOUTH
+3047,Transcona Trail-A,REGENT
+3067,Transcona Trail-F,TRANSCONA NORTH
+3068,Transcona Trail-E,TRANSCONA NORTH
+3147,Edward Turner-East Plains Park,SAGE CREEK
+3150,Luzon Bay Park,ROSSER-OLD KILDONAN
+3261,River Park South Path,RIVER PARK SOUTH
+3364,Bridgwater Trails,BRIDGWATER TRAILS
+3448,Sage Creek-Sundog Park,SAGE CREEK
+3449,Sage Creek-Warde Park,SAGE CREEK
+3460,Ray Klassen Park,PEGUIS
+3461,White Spruce Park,PEGUIS
+3520,Bitterfield-Dana Park,AMBER TRAILS
+3540,Glendale Triangle,WOODHAVEN
+3560,River Park South Buffer,RIVER PARK SOUTH
+3660,Sir Wilfrid Laurier Park,PEGUIS
+3661,Prymak-Chelston Walk,PEGUIS
+3663,Vickar Path,PEGUIS
+3680,Dakota Crossing Buffer,DAKOTA CROSSING
+3700,Shirley Render Park,PULBERRY
+3860,Lakebourne-Bitterfield Park,AMBER TRAILS
+3880,Louis Greenburgh Plaza,SEVEN OAKS
+3920,Kirby/Setter Park,HERITAGE PARK
+3961,Argue & Rosedale Athletic Field,LORD ROBERTS
+3963,Ridgewood West Playground,RIDGEWOOD SOUTH
+4000,Bonavista Rail Line Buffer North,FRAIPONT
+4001,Bonaventure Park,FRAIPONT
+4003,Fraipont Park,FRAIPONT
+4007,Eau-Claire Park,FRAIPONT
+4008,Jack Reimer Drive Park,FRAIPONT
+4009,Bonavista-Lagimodiere Walk,FRAIPONT
+4010,Bonavista Walk SE,FRAIPONT
+4011,Bonavista Walk SW,FRAIPONT
+4012,Bonavista Walk NW,FRAIPONT
+4013,Bonavista Rail Line Buffer South,FRAIPONT
+4022,Ridgewood South Greenspace-B,RIDGEWOOD SOUTH
+4023,Ridgewood South Greenspace-A,RIDGEWOOD SOUTH
+4024,Ridgewood South Buffer,RIDGEWOOD SOUTH
+4060,Chalmers Green,EAST ELMWOOD
+4100,Eaglewood Park,PRAIRIE POINTE
+4101,Longspur Greenspace,PRAIRIE POINTE
+4104,Granite Grove Road Park,PRAIRIE POINTE
+4105,Firestone Park,PRAIRIE POINTE
+4120,Apee Panchhi Park,PEGUIS
+4121,Canada 150 Commemorative Park,PEGUIS
+4140,Magas Memorial Park,MELROSE
+4220,Parc Charette Park,ST. NORBERT
+4241,Parc Malala Park,RIVER PARK SOUTH
+4340,Camiel Sys Park,ST. BONIFACE INDUSTRIAL PARK
+4380,Waterside Rotary Park,ST. BONIFACE INDUSTRIAL PARK
+4381,Shady Shores Buffer,ST. BONIFACE INDUSTRIAL PARK
+4422,Rover-Grove Buffer,NORTH POINT DOUGLAS
+4441,Essar Park,KILDONAN DRIVE
+4560,Sir Robert Borden Park,PEGUIS
+4562,Lieutenant Colonel John McCrae Park,PEGUIS
+4564,Nestor Gylywoychuk Park,PEGUIS
+4565,Tyson Trail Path South,PEGUIS
+4566,Tyson Trail Path East,PEGUIS
+4567,Devonshire Village Path,PEGUIS
+4580,Tamblyn-Bessboro Path,WHYTE RIDGE
+4582,Grosvenor-Lanark Greenspace,SIR JOHN FRANKLIN
+4584,Lanark-Greenlawn Greenspace South,SIR JOHN FRANKLIN
+4585,Lanark-Greenlawn Greenspace North,SIR JOHN FRANKLIN
+4600,Scotswood Park,BETSWORTH
+4602,St. Mary's Riverbank,RIVER PARK SOUTH
+4603,Sage Creek-Bishop Grandin Buffer,SAGE CREEK
+4604,Templeton North Park,LEILA NORTH
+4605,Daylan Marshall Gate Park,LEILA NORTH
+4606,Leila North Buffer,LEILA NORTH
+4620,Scotswood-Glenbush Park,BETSWORTH
+4660,North Point Park,WEST KILDONAN INDUSTRIAL
+4661,Aurora Park,WEST KILDONAN INDUSTRIAL
+4662,Atlas Park,WEST KILDONAN INDUSTRIAL
+4740,Dominion Bridge Park,ST. JAMES INDUSTRIAL
+4760,Chmilowsky Park,PEGUIS
+4903,Rover-Stephens Park,NORTH POINT DOUGLAS
+4923,Melrose Ave West Park,MELROSE
+5141,Bois-des-esprits,ROYALWOOD
+5181,Jinnah Park,SOUTH POINTE
+5221,Ballantrae Drive Park North,CHEVRIER
+5222,Ballantrae Drive Park South,CHEVRIER
+5241,Bidhu Jha Park,MISSION GARDENS
+5288,Wildwood Greenspace,WILDWOOD
+5323,Hua Mulan Park,BRIDGWATER LAKES
+5324,Mrs. Nelson Park,PEGUIS
+5325,Tom Nesby Park,PEGUIS
+5341,Higgins Greenspace,SOUTH POINT DOUGLAS
+5382,Shaheed Bhagat Singh Park,BRIDGWATER TRAILS
+5441,Bernie's Corner Park,TRANSCONA YARDS
+5762,Enfield Park West,NORWOOD EAST
+5765,South Tuxedo Buffer,SOUTH TUXEDO
+5768,Parker Greenspace,PARKER
+5801,Shady Shores Drive West Walk,ST. BONIFACE INDUSTRIAL PARK
+5821,St. Boniface Industrial Buffer Northeast,ST. BONIFACE INDUSTRIAL PARK
+5822,Parc Dr. Rey Pagtakhan Park,WORTHINGTON
+5941,Kotelko Dr Greenspace,SAGE CREEK
+5982,Brenda Leipsic Park,PARKER
+6021,Bourkewood Buffer,JAMESWOOD
+6041,Elizabeth Prairie Nature Park,ST. BONIFACE INDUSTRIAL PARK
+6061,Orion Park,WEST KILDONAN INDUSTRIAL
+6081,Brad Little Park,CANTERBURY PARK
+6101,Fermor Greenway,GLENWOOD
+6121,Sage Creek Hydro Corridor,SAGE CREEK
+6141,Amber Trails Path East,AMBER TRAILS
+6164,Waterford Green Trail Northeast,ROSSER-OLD KILDONAN
+6181,Waterford Green Trail Northwest,ROSSER-OLD KILDONAN
+6201,Ridgewood West Path North,RIDGEWOOD SOUTH
+6221,Ridgewood West Path East,RIDGEWOOD SOUTH
+6222,Ridgewood West Path South,RIDGEWOOD SOUTH
+6223,Blue Meadow Park,BRIDGWATER LAKES
+6241,Sablewood-Bellflower Path,BRIDGWATER LAKES
+6261,Bridge Lake-Bellflower Path,BRIDGWATER LAKES
+6262,Red Spruce Park,BRIDGWATER LAKES
+6263,Red Spruce-Bison Path,BRIDGWATER LAKES
+6281,Willow Creek-Bison Path,BRIDGWATER TRAILS
+6282,Bridgwater Trails Centre,BRIDGWATER TRAILS
+6283,Cherry Wood-Valley Brook Path,BRIDGWATER TRAILS
+6284,Del Monica-Bridge Lake Path,BRIDGWATER TRAILS
+6285,Rowntree Park,BRIDGWATER TRAILS
+6286,Windflower Park,BRIDGWATER TRAILS
+6302,John Bruce East Riverbank,ROYALWOOD
+6303,Cadboro Park,WAVERLEY WEST B
+6304,Sage Creek-Sundog Park East,SAGE CREEK
+6321,Desrosiers Drive Buffer,CANTERBURY PARK
+6322,Desrosiers Drive Park,CANTERBURY PARK
+6342,Highbury Walkway East,RIVER PARK SOUTH
+6345,Gunn Road Greenspace,TRANSCONA NORTH
+6361,Wild Rice Circle South Walk,TRANSCONA NORTH
+6381,Sandcherry Bay Walk,TRANSCONA NORTH
+6382,Indigo Bush Park,TRANSCONA NORTH
+6383,Wild Rice Circle North Walk,TRANSCONA NORTH
+6384,Raspberry Ridge Walk,TRANSCONA NORTH
+6385,Big Bluestem Road Walk,TRANSCONA NORTH
+6386,Wild Rice Circle Park,TRANSCONA NORTH
+6387,Nordic Heights Park,TRANSCONA NORTH
+6388,Copper Meadow Park,SAGE CREEK
+6389,Robert Bockstael Drive Park,SAGE CREEK
+6390,Yellow Moon Crescent Walk,SAGE CREEK
+6391,Orion Crescent Walk,WEST KILDONAN INDUSTRIAL
+6401,Landover-Skyline Walk,PRAIRIE POINTE
+6402,Skyline Drive Park,PRAIRIE POINTE
+6403,White Water Bay Park,PRAIRIE POINTE
+6404,Prairie Pointe Park,PRAIRIE POINTE
+6405,Douglas Henning Bay Greenspace,PRAIRIE POINTE
+6406,Hughes Crescent Walk,PRAIRIE POINTE
+6521,Dana Crescent Park,AMBER TRAILS
+6541,Ridgewood West Entry Greenspace,RIDGEWOOD SOUTH
+6561,Wilkes-Charleswood Buffer West,WILKES SOUTH
+6581,Ridgewood CNR Buffer,RIDGEWOOD SOUTH
+6661,Henteleff Greenfield,NORMAND PARK
+6701,Armour Crescent Park,WOODHAVEN
+6741,Rooster Town Park,GRANT PARK
+6781,Blackmore Avenue Riverbank,MINNETONKA
+6801,Academy Road Park,SIR JOHN FRANKLIN
+6802,Kilkenny Forest,FORT RICHMOND
+6821,Gateside-Murray Buffer,RIVERBEND
+6841,Degrave-Templeton Buffer West,LEILA NORTH
+6842,Degrave-Templeton Buffer East,LEILA NORTH
+6843,Glenella Gardens Park,ROSSER-OLD KILDONAN
+6921,Carriere Avenue Park,NORWOOD EAST
+6941,Joe Keeper Way - Frontier Trail Greenspace,WAVERLEY WEST B
+6942,Frontier Trail Park,WAVERLEY WEST B
+6943,Yasmin Ali Crescent Walk North,WAVERLEY WEST B
+6944,Yasmin Ali Crescent Walk South,WAVERLEY WEST B
+6945,Inez Cross Park,WAVERLEY WEST B
